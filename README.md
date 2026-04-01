@@ -63,6 +63,6 @@ As a graduate in Computer Science and Engineering, I am focused on the intersect
 ---
 
 ## Connect with Me
-* **Email:** tankim.prio14@gmail.com
+* **Email:** tankim.prio@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/tankim-prio
 * **Location:** Dhaka, Bangladesh | Open to International Collaboration
